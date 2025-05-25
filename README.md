@@ -10,5 +10,5 @@
 
 
 ## 📫 How to reach me
-- LinkedIn: [linkedin.com/in/gopaldhorajiya](https://linkedin.com/in/dhorajiya-gopal-688a04287)
+- LinkedIn: [linkedin.com/in/gopaldhorajiya](https://www.linkedin.com/in/gopal-dhorajiya-688a04287/)
 - Email: gopaldhorajiya205@gmail.com
