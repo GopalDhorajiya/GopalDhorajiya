@@ -1,16 +1,14 @@
-## Hi there 👋
+# Hi there 👋 I'm Gopal
 
-<!--
-**GopalDhorajiya/GopalDhorajiya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🖥️ Web Development
+- 📚 Problem Solving
 
-Here are some ideas to get you started:
+## 🧠 Competitive Programming
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=LeetCode&logoColor=white)](https://leetcode.com/gopaldhorajiya205)
+[![CodeChef](https://img.shields.io/badge/CodeChef-5B4638?style=flat-square&logo=CodeChef&logoColor=white)](https://www.codechef.com/users/gopaldhorajiya)
+
+
+## 📫 How to reach me
+- LinkedIn: [linkedin.com/in/yourprofile](https://linkedin.com/in/dhorajiya-gopal-688a04287)
+- Email: gopaldhorajiya205@gmail.com
