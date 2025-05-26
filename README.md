@@ -3,7 +3,7 @@
 - 🖥️ Web Development
 - 📚 Problem Solving
 
-## 🧠 Competitive Programming
+## 🧠 Programming
 
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=LeetCode&logoColor=white)](https://leetcode.com/gopaldhorajiya205)
 [![CodeChef](https://img.shields.io/badge/CodeChef-5B4638?style=flat-square&logo=CodeChef&logoColor=white)](https://www.codechef.com/users/gopaldhorajiya)
